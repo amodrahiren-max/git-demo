@@ -9,3 +9,5 @@ fouth bugfix
 fifth bug
 
 add another fixes
+
+another fixes for purple mode
